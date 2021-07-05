@@ -1,0 +1,7 @@
+keras
+tensorflow
+flask
+matplotlib
+numpy
+pandas
+pillow==8.2.0
